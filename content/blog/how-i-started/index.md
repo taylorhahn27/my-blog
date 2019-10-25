@@ -1,6 +1,6 @@
 ---
 title: How I Got Into Tech
-date: "2019-05-06T23:46:37.121Z"
+date: "2019-10-24T22:12:03.284Z"
 ---
 
 I feel the need to share a brief recount of how I became interested in pursuing a career in tech, and how I made that interest a reality. 
@@ -22,7 +22,7 @@ Most important things I learned on the job-
 1. Learn as much as you can from the people around you and do not be shy when doing so. Believe it or not, they want to help you!
 2. Do not underestimate your abilities.
 
-I learned more during these several months pair programming with Blaine and soaking up as much information as I could from the rest of our distributed team members (two in India, a team in Australia, one in China, and one in California, as well as our client's team in Texas). I was given an opportunity to learn from people who have worked for major tech companies and I wanted to take advantage of this. I acquired invaluable technical skills as well as truly understanding the importance of teamwork. I learned the intricacies and centrality of clear and consistent communication with one another, this seemed especially true in a distributed team. 
+I learned more during these several months pair programming with Blaine and soaking up as much information as I could from the rest of our distributed team members (two in India, a team in Australia, one in China, and one in California, as well as our client's team in Texas). I was given an opportunity to learn from people who have worked for major tech companies and I wanted to take advantage of this. I acquired invaluable technical skills as well as truly understanding the importance of teamwork. I learned the intricacies and centrality of clear and consistent communication with one another, this seemed especially true in a distributed team.
 
 Our team was contracted with a large architecture firm to build multiple MVPs. The software was based on React GraphQL, JavaScript, and relational databases. We used GitLab for a development platform and deployed with Zeit. These applications addressed and organized management of financial and human resource budgets for large construction projects, including billion-dollar stadiums.
 

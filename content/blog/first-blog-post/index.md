@@ -1,10 +1,10 @@
 ---
 title: First Blog Post!
-date: "2019-05-01T22:12:03.284Z"
+date: "2019-10-20T22:12:03.284Z"
 description: "Some issues I stumbled upon diving back into the world of front-end..."
 ---
 
-When I am in between consulting contracts I build websites...
+When I am in between consulting contracts I build websites.
 
 I am currently finishing up a simple static site for a local restaraunt where my main goals were to:
 
@@ -22,8 +22,7 @@ Here is the drawing:
 
 Shouts out to Kristina Kosina whom I've never met but I already feel a deep bond through our love of CSS.
 
-
- I ended up hacking the site together fairly quickly with just a few (should-be-minor) issues that stood out to me:
+I ended up hacking the site together fairly quickly with just a few (should-be-minor) issues that stood out to me:
 
 1) Dynamic content replacement- I needed to write a function that would switch between an 'Eat' menu div and a 'Drink' menu div upon button click. The main issue was getting jQuery to work, I am still not completely sure what was preventing jQuery from rendering. The only thing I could think of was script placement in my 'index.html' file. 
 
