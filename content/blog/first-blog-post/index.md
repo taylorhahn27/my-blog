@@ -61,11 +61,9 @@ for (var i = 0; i < btns.length; i++) {
 ```
    
    
-1) Github Pages seemed very slow! The mobile menu seems to be a bit laggy as well as the parallax feature on the supporting pages. Should I deploy on Netlify instead? Maybe Github Pages isn't optimized for websites but for blogs instead. I ended up redeploying this website on Netlify. If you are curious what I found out head over to my next blog entry. 
+1) Github Pages is very slow! The mobile menu seems to be a bit laggy as well as the parallax feature on the supporting pages. Should I deploy on Netlify instead? Maybe Github Pages isn't optimized to go fast. I will be redeploying this website on Netflify within the next few days. 
    (look into Lighthouse google to find exact performance times, compare with existing site, github pages site, and netlify site)
 
 
-
-
 In the near future I plan to re-write the site in React on Gatsby, and deploy with Zeit.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Why I want to do this)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Why do I want to do this????)
