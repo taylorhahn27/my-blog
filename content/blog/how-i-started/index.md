@@ -5,7 +5,7 @@ date: "2019-10-24T22:12:03.284Z"
 
 I feel the need to share a brief recount of how I became interested in pursuing a career in tech, and how I made that interest a reality. 
 
-A little about myself- 
+<h3>A little about myself:</h3>
 
 I've always had a deep curiosity to learn and excel in school, however, due to certain adversities I was no longer able to complete university and I began exploring alternative education paths. I have always had an interest in computer programming but because of misconceptions that people have to be mathmatical geniuses (even though maths was always my main interest in school) coupled with deep seated internalized fears developed at an early age that I would never be good enough, I put off pursuing it. Despite this extremely inaccurate representation of the tech industry and self, I eventually decided to try it out. 
 
@@ -17,7 +17,7 @@ I live in a sort of co-op graduate student house where we have a constant cycle 
 
 He had offered to meet for coffee to talk about details of a project he was currently working on. He ended up giving me what I felt was a considerable task to do in two weeks. I was to get back to him when I had done so. I knew I was in over my head but long story short I ended up building a database he had wanted (with lots of help from Google and StackOverflow) in a few days with the software he was interested in and he was impressed - because of this he hired me into a sort of junior position.
 
-Most important things I learned on the job-
+<h3>Most important things I learned on the job:</h3>
 
 1. Learn as much as you can from the people around you and do not be shy when doing so. Believe it or not, they want to help you!
 2. Do not underestimate your abilities.

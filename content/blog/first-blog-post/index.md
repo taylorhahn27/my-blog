@@ -26,12 +26,12 @@ I ended up hacking the site together fairly quickly with just a few (should-be-m
 
 1) Dynamic content replacement- I needed to write a function that would switch between an 'Eat' menu div and a 'Drink' menu div upon button click. The main issue was getting jQuery to work, I am still not completely sure what was preventing jQuery from rendering. The only thing I could think of was script placement in my 'index.html' file. 
 
-Solution:<br>
+<b>Solution:</b><br>
  After re-writing functions in every possible way, I ended up writing a vanilla JavaScript function that I was able to implement smoothly. Who knows why I didn't think of this sooner...
    
-2) Adding and removing active classes- My code would work properly in Codepen but not in my site. I then deduced it was interfering with existing code.
+1) Adding and removing active classes- My code would work properly in Codepen but not in my site. I then deduced it was interfering with existing code.
 
-Solution:<br>
+<b>Solution:</b><br>
  After deleting everything besides the menu buttons whose class I was trying to change, introducing code back into my site piece by piece and testing to see if it would break or not, I figured out that the active class in my navigation was interferring with the active class in my menu buttons. I renamed my navigation 'active' class 'active1' and all was well.
 
 ```html
@@ -41,8 +41,7 @@ Solution:<br>
 </div>
 ```
 
-``` javascript
-<script>
+```javascript
 var header = document.getElementById("button-background");
 var btns = header.getElementsByClassName("button");
 for (var i = 0; i < btns.length; i++) {
@@ -51,7 +50,6 @@ for (var i = 0; i < btns.length; i++) {
   current[0].className = current[0].className.replace(" active", "");
   this.className += " active";
   });
-</script>
 ```
 
 ``` css

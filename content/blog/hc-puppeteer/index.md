@@ -4,7 +4,7 @@ date: "2019-11-05T22:12:03.284Z"
 description: "Exploring Headless Chrome + Puppeteer"
 ---
 
-Because Blaine is currently in China and I am in Berkeley, we have been slacking on our daily Zoom meetings. However, we were finally able to coordinate a time today! Woo! Without fail these meetings always seem to result in an interesting discussion of new tools we can use to accellerate our learning and deepen our curiosity of modern software.
+Because Blaine is currently in China and I am in Berkeley, we have been slacking on our daily Zoom meetings. However, we were finally able to coordinate a time today! Woo! Without fail these meetings always seem to result in an interesting discussion of new tools we can use to accelerate our learning and deepen our curiosity of modern software.
 
 <h3>Today we discussed two tools:</h3>
 
