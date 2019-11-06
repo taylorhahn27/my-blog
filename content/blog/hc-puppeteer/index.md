@@ -9,11 +9,11 @@ Because Blaine is currently in China and I am in Berkeley, we have been slacking
 <h3>Today we discussed two tools:</h3>
 
 1. Google's automated testing tool [Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)
-Headless chrome is a way to automatically test server environments without a user interface. <br>
+is a way to automatically test server environments without a user interface. <br>
 
 Here is a list of possible [use cases](https://github.com/checkly/puppeteer-examples).
 
-2. [Puppeteer](https://developers.google.com/web/tools/puppeteer) which can be used to drive Headless Chrome.
+1. [Puppeteer](https://developers.google.com/web/tools/puppeteer) which can be used to drive Headless Chrome.
 
 <h3>Thoughts:</h3>
 
