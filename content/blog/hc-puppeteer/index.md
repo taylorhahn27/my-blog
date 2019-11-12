@@ -4,7 +4,7 @@ date: "2019-11-05T22:12:03.284Z"
 description: "Exploring Headless Chrome + Puppeteer"
 ---
 
-Blaine and I try to co-work and have zoom standups daily, no matter where we are in the world. But because Blaine is currently in China and I am in Berkeley, we have been slacking on our daily Zoom meetings as the time-difference is something like 16 hours. Despite this we were finally able to coordinate a time today! Woo! Without fail these meetings always seem to result in an interesting discussion of new tools we can use to accelerate our learning and deepen our curiosity of modern software. This includes both work directly related to the consulting firm and any personal projects we are working on.
+Blaine and I try to co-work and have zoom standups daily, no matter where we are in the world. But because Blaine is currently in China and I am in Berkeley, we have been slacking on our daily Zoom meetings, as the time difference is something like 16 hours. Despite this we were finally able to coordinate a time today! Woo! Without fail these meetings always seem to result in an interesting discussion of new tools we can use to accelerate our learning and deepen our curiosity of modern software. This includes both work directly related to the consulting firm and any personal projects we are working on.
 
 <h3>Today we discussed two tools:</h3>
 
