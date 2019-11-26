@@ -55,10 +55,10 @@ const Bio = () => {
       />
       <p>
         Written by <strong>{author}</strong> who lives and works in Berkeley,
-        California learning tech stuff.<br></br>
+        California learning tech stuff and having fun doing it.<br></br>
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow her on Twitter
+          You should connect with her on Twitter!
         </a>
       </p>
     </div>
