@@ -11,6 +11,8 @@ I've always had a deep curiosity to learn and excel in school, however, due to c
 
 Yay for online resources!
 
+Plan: Get signed to a modeling agency in order to make enough money to live on and be able to have a flexible schedule with enough spare time to teach myself to code.
+
 I started taking a few online coding courses and I was immediately intrigued. I began taking more and more of these courses and I remember the day everything started to 'click' and thinking I may actualy be able to have a career in programming. After a few months of coding for a few hours a day building systems as well as small but practical applications I was feeling more confident technically, but still not where I would like to be. I was not sure how I'd ever get hired/taken seriously as a female without a CS degree.
 
 I live in a sort of co-op graduate student house where we have a constant cycle of people staying for various lengths of times. To keep the rent paid when we do not have permanent housemates we also Airbnb a few of the rooms. Because we live fairly close to University of California Berkeley we have many interesting people passing through. These people range from professors to nomads. Thanks to Airbnb I eventualy met a Blaine Wishart who happened to be in the tech industry for 30+ years and was looking for someone such as myself. He was looking for someone to help out with more of the coding as he was putting more of his time and energy into software design and architecture.
