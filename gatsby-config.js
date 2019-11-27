@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Joy of Continuous Learning`,
+    title: `Taylor Made`,
     author: `Taylor Hahn`,
     description: `Taylor's Blog`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
