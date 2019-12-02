@@ -9,13 +9,13 @@ My something as of late has been digital illustrations on Procreate. My job luck
 
 Here are a few of my illustrations that I've done in the last week:
 
+![swing](swing.jpg)
+
 ![bathroom-ladies](bathroom-ladies.jpg)
 
 ![boys-hanging](boys-hanging.jpg)
 
 ![ladies-hanging](ladies-hanging.jpg)
-
-![swing](swing.jpg)
 
 Since I was a youngster I've found human interaction fascinating, which led into portrait sketchings/paintings. Retrospectively thinking, I believe my social anxiety has helped me become extremely perceptive when drawing (I've been told I notice things many would not, especially when it comes to other humans). I would then tweak what I see into freeform quick/short-stroke expressionistic portraits. However, lately I've developed a simple illustrative fine-lined style that I am really into.
 
