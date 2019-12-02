@@ -7,7 +7,7 @@ Although it is easy to stay isolated with your eyes glued to the blue screen for
 
 My something as of late has been digital illustrations on Procreate. My job luckily gifted me an ipad at the beginning of the year. I've since fallen in love with the tool for both work and personal projects.
 
-<h3>Here are a few of my illustrations that I've done in the last week:</h3>
+<h3>Here are a few of my illustrations that I've done in the last week or so:</h3>
 
 ![swing](swing.jpg)
 
