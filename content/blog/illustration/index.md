@@ -7,7 +7,7 @@ Although it is easy to stay isolated with your eyes glued to the blue screen for
 
 My something as of late has been digital illustrations on Procreate. My job luckily gifted me an ipad at the beginning of the year. I've since fallen in love with the tool for both work and personal projects.
 
-Here are a few of my illustrations that I've done in the last week:
+<h3>Here are a few of my illustrations that I've done in the last week:</h3>
 
 ![swing](swing.jpg)
 
@@ -23,7 +23,7 @@ I enjoy digital art for many reasons but the main being no clean up (!!!! !!!! x
 
 If anyone recommends any other tools, or can send me interesting photos they'd like drawn, I would appreciate it :).
 
-The series I am currently focusing on consists of:<br>
+<h3>The series I am currently focusing on consists of:</h3><br>
 
 1. two people
 2. interesting poses/shapes

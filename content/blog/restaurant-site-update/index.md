@@ -11,7 +11,7 @@ Thinking maybe it's a css prefixer issue (mobile using Safari, desktop using Chr
 
 I've had to completely remove the parallax feature in order to display the hero image properly.
 
-On the plus side:
+<h3>On the plus side:</h3>
 
 I've recently realized a big strength of mine-
 to be able to use custom illustrations to bring life to some of the websites I have been building on the side, also to add a sort of personal signature and consistent style to each that I do.
