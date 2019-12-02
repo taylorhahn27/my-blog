@@ -19,7 +19,9 @@ We won't be able to get direct [HRV](https://en.wikipedia.org/wiki/Heart_rate_va
 One reason why someone would want access to HRV data:
 Provide signals for whether one is over training or undertraining.
 
-Polar has one of the only policies that give their customers access to their own data, because of this we will focus on sucking in data from Polar. However, the API we will build will be designed to be able to suck in data from other sources such as Fitbit, Garmin, and Suuntoo.
+Polar has one of the most accessible ways allowing you to export your data, because of this we will focus on sucking in data from them. After examining some data there seems to be some inconsitencies which i'll dive into later.
+
+The API we will build will be designed to be able to suck in data from other sources such as Fitbit, Garmin, and Suuntoo.
 
 We'll start by reading from a local JSON file downloaded from Polar and performing small pragmatic calcluations.
 
