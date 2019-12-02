@@ -35,5 +35,5 @@ Custom social icons seems to tie everything together instead of using some gener
 ![ig](ig.jpg)
 ![twitter](twitter.jpg)
 
-<h3>...Lastly...
-If anyone has copyright knowledge that would be appreciated!</h3>
+...Lastly...
+If anyone has copyright knowledge that would be appreciated!
