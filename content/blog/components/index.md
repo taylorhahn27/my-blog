@@ -5,7 +5,7 @@ date: "2019-12-03T22:12:03.284Z"
 
 Rough Notes:
 
-Components! Components! Components!
+<h3>Components! Components! Components!</h3>
 
 My definition of a component is an isolated, reusable chunk of code.
 
@@ -16,7 +16,7 @@ For example, maybe I have:<br>
 1. a bunch of code that is commented out that I was considering using at some point
 2. code that has been overwritten by other code that is no longer necessary
 
-Organization! Organization! Organization!
+<h3>Organization! Organization! Organization!</h3>
 
 This is especially important when dead CSS and Javascript code affects loading performance. Even if the CSS or Javascript is unused, it is still downloaded, parsed, and compiled by the browser.
 
@@ -37,16 +37,16 @@ I will then see if I have similar problems to the ones I have been having, no pr
 
 I have a feeling I will want to re-write the entire restaraunt website in either one of these languages at one point in the near future, as the only reason I did not start with React is because I thought I could write it and go live more quickly using Bootstrap and Javascript.
 
-Ok ok ok so ---
+<h3>Ok ok ok so --- </h3>
 
-My current issue:
+<h3>My current issue:</h3>
 My client wants to be able to EASILY (keyword) update their restaurant menu items.
 
 Suppose the chef has created a new special for the day and the client wants to easily update the website without having to call me to do so.
 
 How will they be able to do this with no HTML experience?
 
-Thoughts: <br>
+<h3>Thoughts:</h3> <br>
 
 1. Create a section of code clear enough to read that the client is able to parse it and update whatever needs updating.
 2. Remove/isolate the section of code from index.html that is their menu and put it into another file. This way they wouldn't have to become overwhelmed siphoning through html that means nothing to them.
