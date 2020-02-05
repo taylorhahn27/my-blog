@@ -12,7 +12,7 @@ Overarching themes that bled through all days:
 3. Climate change (in relation to A/E/C industry (Architecture, Engineering, Construction))
 4. Circular construction (“an economic concept whose objective is that the value of products, materials and resources is kept in the economy for as long as possible, and that waste generation is minimized.”)
 5. Rather than fighting over crumbs of an existing market, build a new
-   market- a new cake, and get a bigger piece of that cake.
+   market- a new cake, and get a bigger piece of that cake
 6. "the boring revolution” (the long, possibly painstaking revolution that is necessary to change and develop the root cause of poor tech implementation in A/E/C - "trying to use 20th century technology within 19th century frameworks")
 7. Deep focus on including and hearing from the new generation
 
