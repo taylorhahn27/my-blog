@@ -1,6 +1,7 @@
 ---
 title: My First Publication
 date: "2020-01-22T22:12:03.284Z"
+description: "Woo! I co-published an article in DI Q4"
 ---
 
 ### Design Intelligence Publications
