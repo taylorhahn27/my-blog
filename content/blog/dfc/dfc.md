@@ -1,6 +1,6 @@
 ---
 title: Design Future's Counsil Leadership Summit 2020
-date: "2019-10-24T22:12:03.284Z"
+date: "2020-01-16T22:12:03.284Z"
 ---
 
 ### Rough notes on [Design Futures Counsil Leadership Summit on Technology & Applied Innovation - Game Changers 2020](https://www.di-technology-innovation.com/)
