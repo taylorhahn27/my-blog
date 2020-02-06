@@ -1,24 +1,24 @@
 ---
-title: Design Future's Counsil Leadership Summit 2020
+title: Design Futures Counsil Leadership Summit 2020
 date: "2020-01-16T22:12:03.284Z"
 ---
 
-### Beginning notes on [Design Futures Counsil Leadership Summit on Technology & Applied Innovation - Game Changers 2020](https://www.di-technology-innovation.com/)
+### Beginning notes on [Design Futures Council Leadership Summit on Technology & Applied Innovation - Game Changers 2020](https://www.di-technology-innovation.com/)
 
 Overarching themes that bled through all days:
 
 1. Sustainability and taking responsibility (being the one to make the change, owning you can make a difference)
 2. 0 carbon cities ([Dark Matter Labs](https://darkmatterlabs.org/Healthy-Clean-Cities-Deep-Demonstration-Accelerating-European-cities))
-3. Climate change (in relation to A/E/C industry (Architecture, Engineering, Construction))
+3. Climate change (in relation to AEC industry - Architecture, Engineering, Construction)
 4. Circular construction (“an economic concept whose objective is that the value of products, materials and resources is kept in the economy for as long as possible, and that waste generation is minimized.”)
 5. Rather than fighting over crumbs of an existing market, build a new
    market- a new cake, and get a bigger piece of that cake
-6. "the boring revolution” (the long, possibly painstaking revolution that is necessary to change and develop the root cause of poor tech implementation in A/E/C - "trying to use 20th century technology within 19th century frameworks")
+6. "the boring revolution” (the long, possibly painstaking revolution that is necessary to change and develop the root cause of poor tech implementation in AEC - "trying to use 20th century technology within 19th century frameworks")
 7. Deep focus on including and hearing from the new generation
 
 I will be writing a more in-depth article elaborating on the ideas, humans, and brilliance I was immersed in during this conference but for now, here is a brief recap on the main ideas that stood out to me.
 
-I came into this conference knowing absolutely nothing other than that the topic was technology innovation relating to A/E/C. I was completely blown away by what took place. I met some of the most accomplished humans, and to be in a room filled with such beings felt incredibly validating and powerful. I awkwardly drank wine on the porch of Sulk's family home, I shook hands with Dr. Jonas Sulk’s son.
+I came into this conference knowing absolutely nothing other than that the topic was technology innovation relating to AEC. I was completely blown away by what took place. I met some of the most accomplished humans, and to be in a room filled with such beings felt incredibly validating and powerful. I awkwardly drank wine on the porch of Sulk's family home, I shook hands with Dr. Jonas Sulk’s son.
 
 What I observed from the 14th to the 16th at the DFC conference is what I believe should be happening in every industry, classroom, and household globally. It was a bold display of all generations voicing an immediate need for reform of industry policies and changing one's mindset regarding sustainability issues.
 
