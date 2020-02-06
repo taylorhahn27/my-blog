@@ -1,5 +1,5 @@
 ---
-title: Design Futures Counsil Leadership Summit 2020
+title: Design Futures Council Leadership Summit 2020
 date: "2020-01-16T22:12:03.284Z"
 ---
 
