@@ -11,9 +11,8 @@ date: "2019-12-21T22:12:03.284Z"
 
 1. I've never been to a work conference before.
 2. I've always wanted to go to a work conference.
-3. Why have I always wanted to go to a work conference?
-4. Immediate thoughts of self-doubt and what I would (or wouldn't more so) be able to contribute to a conference full of people who've been in the A/E/C industry for years, probably decades.
-5. I can't pass up an opportunity to meet extremely interesting and inspiring people.
-6. This will be a good way to challenge my social anxiety.. after all, I've been told the only way to combat social anxiety is through exposure therapy.
+3. Immediate thoughts of self-doubt and what I would (or wouldn't more so) be able to contribute to a conference full of people who've been in the AEC industry for years, probably decades.
+4. I can't pass up an opportunity to meet incredibly interesting, accomplished and inspiring people.
+5. This will be proper exposure therapy for social anxiety.
 
-<h3>A good way to start the new year :-)</h3>
+<h3>A lovely way to start the new year :-)</h3>
