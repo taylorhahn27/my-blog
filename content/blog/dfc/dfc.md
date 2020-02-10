@@ -5,7 +5,7 @@ date: "2020-01-16T22:12:03.284Z"
 
 ### Beginning notes on [Design Futures Council Leadership Summit on Technology & Applied Innovation - Game Changers 2020](https://www.di-technology-innovation.com/)
 
-Overarching themes that bled through all days:
+Overarching themes:
 
 1. Sustainability and taking responsibility (being the one to make the change, owning you can make a difference)
 2. 0 carbon cities ([Dark Matter Labs](https://darkmatterlabs.org/Healthy-Clean-Cities-Deep-Demonstration-Accelerating-European-cities))
@@ -18,11 +18,11 @@ Overarching themes that bled through all days:
 
 I will be writing a more in-depth article elaborating on the ideas, humans, and brilliance I was immersed in during this conference but for now, here is a brief recap on the main ideas that stood out to me.
 
-I came into this conference knowing absolutely nothing other than that the topic was technology innovation relating to AEC. I was completely blown away by what took place. I met some of the most accomplished humans, and to be in a room filled with such beings felt incredibly validating and powerful. I awkwardly drank wine on the porch of Sulk's family home, I shook hands with Dr. Jonas Sulk’s son.
+I came into this conference knowing absolutely nothing other than that the topic was technology innovation relating to AEC. I was completely blown away by what took place. I met some of the most accomplished people, and to be in a room filled with such beings felt incredibly validating and powerful. I awkwardly drank wine on the porch of Sulk's family home, I shook hands with Dr. Jonas Sulk’s son.
 
-What I observed from the 14th to the 16th at the DFC conference is what I believe should be happening in every industry, classroom, and household globally. It was a bold display of all generations voicing an immediate need for reform of industry policies and changing one's mindset regarding sustainability issues.
+What I observed from the 14th to the 16th at the DFC conference is what I believe should be happening in every industry, classroom, and household globally. It was a bold display of all generations coming together and voicing an immediate need for reform of industry policies and changing one's mindset regarding sustainability issues.
 
-As I was on my way to the airport to catch a flight home I couldn’t help but feel a sense of restored/renewed faith in the goodness of humanity. Knowing that people are willing to call out people who have influence/power to actually make such changes, or at least start the process of change.
+As I was on my way to the airport to catch a flight home I couldn’t help but feel a sense of restored/renewed faith in the goodness of humanity. Knowing that people are willing to call out others who have influence/power to make such changes, or at least start the process of change.
 
 Of course, this is a very select group of people, and I in no way suddenly feel safe thinking that the world will no longer overheat and the salmon won’t go extinct in 20 years - but what it did prove to me, and hopefully others who were there was that it is possible to communicate constructively and have concerns and solutions be heard across generations. It demonstrated that standing up for the world as a whole is just as much a personal issue as it is a global issue.
 
