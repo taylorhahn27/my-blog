@@ -1,5 +1,5 @@
 ---
-title: First Blog Post!
+title: First Blog Post
 date: "2019-10-20T22:12:03.284Z"
 description: "Some issues I stumbled upon diving back into the world of front-end..."
 ---
