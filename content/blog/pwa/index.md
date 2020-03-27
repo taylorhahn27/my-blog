@@ -1,6 +1,6 @@
 ---
 title: Progressive Web Apps vs Something Else
-date: "2019-01-02T22:12:03.284Z"
+date: "2019-11-25T22:12:03.284Z"
 ---
 
 A big part of my work right now is weighing the pros and cons of building a progressive web app vs something like React or React-Native. This will influence whether we develop the next project using React-Native (Cross-Platform Development) or a simpler PWA using Bootstrap (Front-End Framework).
