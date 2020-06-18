@@ -11,10 +11,10 @@ My definition of a component is an isolated, reusable chunk of code.
 
 Even in the simplest of websites/applications it is easy to end up with an unneccesarily long file with hundreds of lines of unused or duplicate code, creating a giant hard to read mess.<br><br>
 
-For example, maybe I have:<br>
+Maybe I have...
 
 1. a bunch of code that is commented out that I was considering using at some point
-2. code that has been overwritten by other code that is no longer necessary
+2. code that has been overwritten by other code that is no longer providing any function
 
 <h3>Organization! Organization! Organization!</h3>
 
@@ -35,12 +35,8 @@ I plan to take a few parts of my current code and re-write them in both Elm and 
 
 I will then see if I have similar problems to the ones I have been having, no problems, or something in between.
 
-I have a feeling I will want to re-write the entire restaraunt website in either one of these languages at one point in the near future, as the only reason I did not start with React is because I thought I could write it and go live more quickly using Bootstrap and Javascript.
-
-<h3>Ok ok ok so --- </h3>
-
 <h3>My current issue:</h3>
-My client wants to be able to EASILY (keyword) update their restaurant menu items.
+Client wants to be able to easily update their restaurant menu items.
 
 Suppose the chef has created a new special for the day and the client wants to easily update the website without having to call me to do so.
 
@@ -61,4 +57,4 @@ I would think that the idea of injecting an html component into another html fil
 
 I've always been pushed to create programs in reusable components. This includes everything from simple webpages to more complex applications.
 
-I've thought about this issue of restaurants not being able to update their sites quickly and easily since the beginning of this project and I've been considering solutions. I think I have a few ideas on how to create such a thing. But this will be a future project.
+I've thought about this issue of restaurants not being able to update their sites quickly and easily since the beginning of this project and I've been considering solutions. I have a few ideas on how to create such a thing.
