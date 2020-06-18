@@ -9,10 +9,6 @@ date: "2019-12-21T22:12:03.284Z"
 
 <h3>Thoughts going through my mind:</h3>
 
-1. I've never been to a work conference before.
-2. I've always wanted to go to a work conference.
-3. Immediate thoughts of self-doubt and what I would (or wouldn't more so) be able to contribute to a conference full of people who've been in the AEC industry for years, probably decades.
-4. I can't pass up an opportunity to meet incredibly interesting, accomplished and inspiring people.
-5. This will be proper exposure therapy for social anxiety.
-
-<h3>A lovely way to start the new year :-)</h3>
+1. Immediate thoughts of self-doubt and what I would (or wouldn't) be able to contribute to a conference full of people who've been in the AEC/Tech industry for years, probably decades.
+2. I can't pass up an opportunity to meet incredibly interesting, accomplished and inspiring people.
+3. Proper exposure therapy.
