@@ -54,9 +54,9 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in Berkeley,
-        California learning tech stuff, creating illustrations, and having fun
-        doing it.<br></br>
+        Written by <strong>{author}</strong> who lives and works in Los Angeles,
+        California learning tech stuff. Specializes in Scalable Database
+        Development, GraphQL, and React<br></br>
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           She recently made an account on Twitter, follow her!
