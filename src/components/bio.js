@@ -59,7 +59,7 @@ const Bio = () => {
         Development, GraphQL, and React<br></br>
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          She recently made an account on Twitter, follow her!
+          Follow her on Twitter!
         </a>
       </p>
     </div>
